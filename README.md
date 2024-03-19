@@ -8,6 +8,7 @@
 - 📫 How to reach me **tpulkit87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src"https://media1.giphy.com/media/ko7twHhomhk8E/200.gif?cid=790b7611dz4z64m713hngo8mt2swa1r56ght0h9n24prlu4b&ep=v1_gifs_search&rid=200.gif&ct=g">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pulkit-tiwari87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pulkit-tiwari87/" height="30" width="40" /></a>
 <a href="https://instagram.com/@pulkittiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pulkittiwari" height="30" width="40" /></a>
