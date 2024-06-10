@@ -1,3 +1,4 @@
+![Banner GIF](https://github.com/yourusername/yourrepository/blob/main/yourgif.gif)
 <h1 align="center">Hi 👋, I'm Pulkit Tiwari</h1>
 <h3 align="center">"Exploring the Intersection: Bridging Cybersecurity, AI, ML, and Web Development as a BTech CSE Student"</h3>
 
