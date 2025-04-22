@@ -59,13 +59,7 @@
 
 ### 🐍 GitHub Contribution Animation
 
-![Snake animation](https://github.com/WHTEGOD/WHTEGOD/blob/output/github-contribution-grid-snake2.svg)
-
----
-
-### 🔄 Dynamic Code Preview
-
-<img align="center" alt="Coding" width="100%" src="https://github.com/WHTEGOD/WHTEGOD/assets/144117128/b1c0851e-b7a9-4189-80f6-05f91833f43c" />
+![Snake animation](https://github.com/WHTEGOD/WHTEGOD/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
