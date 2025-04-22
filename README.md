@@ -57,12 +57,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Animation
-
-![Snake animation](https://github.com/WHTEGOD/WHTEGOD/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🧬 Matrix Effect
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
